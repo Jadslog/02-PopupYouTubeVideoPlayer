@@ -132,7 +132,7 @@
 <br /> 
 <div>Links to References.</div>
 <div><a href="https://www.youtube.com/watch?v=0EEJM4S5w38" target="_blank">https://www.youtube.com/watch?v=0EEJM4S5w38</a></div>
-<div><a href="https://www.youtube.com/watch?v=A7KbTRqA-fk" target="_blank">https://www.youtube.com/watch?v=A7KbTRqA-fk</a></div><div><br />
+<div><a href="https://www.youtube.com/watch?v=A7KbTRqA-fk" target="_blank">https://www.youtube.com/watch?v=A7KbTRqA-fk</a></div><br />
   
 <script>
   const YTPlayerOverlay = document.querySelector(".youtube-player-overlay");
