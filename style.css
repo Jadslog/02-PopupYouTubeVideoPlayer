@@ -50,7 +50,8 @@
     transition: all 400ms ease;
 }
 
-.youtube-player-overlay.active .youtube-player-popup {
+.youtube-player-overlay.active 
+.youtube-player-popup {
     transform: translate(-50%, 0);
 }
 
