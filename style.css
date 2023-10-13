@@ -69,4 +69,8 @@
     .youtube-player-overlay iframe {
         height: 280px;
     }
+
+    .youtube-player-popup {
+        width: 100%;
+    }
 }
