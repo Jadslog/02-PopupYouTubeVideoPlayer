@@ -65,4 +65,8 @@
     .youtube-link {
         font-size: 13px;
     }
+
+    .youtube-player-overlay iframe {
+        height: 280px;
+    }
 }
